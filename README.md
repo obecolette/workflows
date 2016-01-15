@@ -3,8 +3,15 @@
 
 ##Author: Rebecca Reese##
 
-*Audit*
+**Audit**
 
-**Frameworks**
+*Frameworks*
 
+*Review*
+**web dev 1-3**
 
+*Git*
+**branching / merging**
+
+*Gulp*
+**tasks**
